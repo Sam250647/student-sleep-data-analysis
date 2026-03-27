@@ -1,7 +1,7 @@
 <h1 align="center">📊 Análisis de Hábitos Digitales en Estudiantes Universitarios</h1>
 
 <p align="center">
-Samuel Valbuena - y Samuel Rojas -202610499
+Samuel Valbuena -202516092 y Samuel Rojas -202610499
 </p>
 
 <p align="center">
