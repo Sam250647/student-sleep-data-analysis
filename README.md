@@ -56,7 +56,7 @@ Explorar cómo los estudiantes distribuyen su tiempo entre actividades digitales
 
 
 <p align="center">
-<img src="https://github.com/Sam250647/student-sleep-data-analysis/blob/main/images/estadistica.jpg" width="450">
+<img src="https://github.com/Sam250647/student-sleep-data-analysis/blob/main/images/Objetivos2.jpg" width="450">
 </p>
 ---
 
