@@ -23,15 +23,15 @@ Samuel Valbuena y Samuel Rojas
 
 Este repositorio contiene un proyecto de ciencia de datos enfocado en el análisis de hábitos digitales en estudiantes universitarios.
 
-Actualmente, gran parte del tiempo de los estudiantes se distribuye entre estudio, uso de redes sociales y consumo de contenido digital. A partir de datos simples sobre estos hábitos, se busca explorar posibles patrones de comportamiento.
+Actualmente, gran parte del tiempo de los estudiantes se distribuye entre estudio, uso de redes sociales y consumo de contenido digital. A partir de datos simples sobre estos hábitos, se busca explorar posibles patrones de comportamiento,de esto lo hacemos para concientizar el peligro y a lo que estamos haciendo enfrentar a chicos y adultos.
 
-El objetivo del proyecto es mostrar cómo un conjunto de datos sencillo puede analizarse utilizando herramientas básicas de ciencia de datos.
+El objetivo del proyecto es mostrar cómo un conjunto de datos sencillo puede analizarse utilizando herramientas básicas de ciencia de datos(Excel, powerby, powerpivot, etc).
 
 ---
 
 ## Objetivo
 
-Explorar cómo los estudiantes distribuyen su tiempo entre actividades digitales y académicas, identificando posibles patrones en sus hábitos tecnológicos.
+Explorar cómo los estudiantes distribuyen su tiempo entre actividades digitales y académicas, identificando posibles patrones en sus hábitos tecnológicos, a donde o que aplicación mayormente entran, cuanto tiempo usan los celulares,etc?.
 
 ---
 
