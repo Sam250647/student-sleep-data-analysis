@@ -26,19 +26,9 @@ Este repositorio contiene un proyecto de ciencia de datos enfocado en el anális
 Actualmente, gran parte del tiempo de los estudiantes se distribuye entre estudio, uso de redes sociales y consumo de contenido digital. A partir de datos simples sobre estos hábitos, se busca explorar posibles patrones de comportamiento, de los cuales hacemos un analisis y promediamos el uso de los cuales, chicos, jovenes y adultos se exponen a la tecnología, el tiempo que usan, y los peligros que estan afrontando.
 
 El objetivo del proyecto es mostrar cómo un conjunto de datos sencillo puede analizarse utilizando herramientas básicas de ciencia de datos (Excel, Powerby, Powerpivot,etc).
-</p>
 
 <p align="center">
-
-![Python](download.jpg)
-![Data Science](download.jpg)
-![Status](download.jpg)
-![GitHub](download.jpg)
-
-</p>
-
-<p align="center">
-<img src="images/students-data.jpg" width="450">
+<img src="download.jpg" width="450">
 </p>
 ---
 
