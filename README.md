@@ -66,7 +66,9 @@ Explorar cómo los estudiantes distribuyen su tiempo entre actividades digitales
 - ¿Cuánto tiempo dedican al estudio?
 - ¿Existen patrones entre uso de redes sociales y tiempo de estudio?
 - ¿Qué plataformas digitales son más utilizadas?
-
+<p align="center">
+<img src="https://github.com/Sam250647/student-sleep-data-analysis/blob/main/images/Pregunta.jpg" width="450">
+</p>
 ---
 
 ## Variables consideradas
