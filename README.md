@@ -28,7 +28,7 @@ Actualmente, gran parte del tiempo de los estudiantes se distribuye entre estudi
 El objetivo del proyecto es mostrar cómo un conjunto de datos sencillo puede analizarse utilizando herramientas básicas de ciencia de datos (Excel, Powerby, Powerpivot,etc).
 
 <p align="center">
-<img src="download.jpg" width="450">
+<img src="https://github.com/Sam250647/student-sleep-data-analysis/blob/main/images/download.jpg" width="450">
 </p>
 ---
 
