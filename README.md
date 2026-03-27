@@ -37,6 +37,7 @@ El objetivo del proyecto es mostrar cómo un conjunto de datos sencillo puede an
 Explorar cómo los estudiantes distribuyen su tiempo entre actividades digitales y académicas, identificando posibles patrones en sus hábitos tecnológicos mediante el análisis de datos.
 
 📊 Objetivos específicos
+
 -Recolectar y organizar datos sobre el tiempo que los estudiantes dedican al estudio, redes sociales y consumo digital.
 
 -Analizar el tiempo promedio de uso tecnológico según grupos de edad (jóvenes, adultos y otros grupos definidos en el estudio).
