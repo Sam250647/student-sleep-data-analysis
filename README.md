@@ -84,9 +84,8 @@ Explorar cómo los estudiantes distribuyen su tiempo entre actividades digitales
 
 ## Metodología
 
-1. Recolección de datos
-
-Se obtuvieron datos mediante encuestas simples dirigidas a estudiantes, donde se registró información sobre el tiempo dedicado al estudio, redes sociales y consumo de contenido digital.
+1. Recolección de datos:
+ Se obtuvieron datos mediante encuestas simples dirigidas a estudiantes, donde se registró información sobre el tiempo dedicado al estudio, redes sociales y consumo de contenido digital.
 
 2. Selección de variables
 
@@ -94,7 +93,7 @@ Se definieron las variables principales del análisis, tales como:
 
 -Edad
 
-Tiempo de uso diario de tecnología
+-Tiempo de uso diario de tecnología
 
 -Tiempo de estudio
 
@@ -102,20 +101,16 @@ Tiempo de uso diario de tecnología
 
 -Tipo de actividad digital
 
-3. Limpieza y organización de datos
+3. Limpieza y organización de datos:
+ Los datos fueron revisados para eliminar errores, valores vacíos o inconsistentes. Posteriormente se organizaron en tablas estructuradas utilizando Excel.
 
-Los datos fueron revisados para eliminar errores, valores vacíos o inconsistentes. Posteriormente se organizaron en tablas estructuradas utilizando Excel.
+4. Transformación de datos:
+ Se realizaron cálculos básicos como promedios, porcentajes y agrupaciones por categorías para facilitar el análisis.
 
-4. Transformación de datos
+5. Análisis exploratorio de datos (EDA):
+ Se analizaron tendencias generales mediante estadísticas descriptivas para identificar comportamientos frecuentes y posibles patrones.
 
-Se realizaron cálculos básicos como promedios, porcentajes y agrupaciones por categorías para facilitar el análisis.
-
-5. Análisis exploratorio de datos (EDA)
-
-Se analizaron tendencias generales mediante estadísticas descriptivas para identificar comportamientos frecuentes y posibles patrones.
-
-6. Visualización de patrones
-
+6. Visualización de patrones:
 Se crearon gráficos y dashboards usando herramientas como Excel, Power BI y Power Pivot para representar visualmente la información.
 
 ---
