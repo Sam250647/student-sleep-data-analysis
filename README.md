@@ -36,7 +36,7 @@ El objetivo del proyecto es mostrar cómo un conjunto de datos sencillo puede an
 
 Explorar cómo los estudiantes distribuyen su tiempo entre actividades digitales y académicas, identificando posibles patrones en sus hábitos tecnológicos.
 <p align="center">
-![Logo](https://github.com/Sam250647/student-sleep-data-analysis/blob/main/images/estadistica.jpg)
+<img src="https://github.com/Sam250647/student-sleep-data-analysis/blob/main/images/estadistica.jpg" width="450">
 </p>
 ---
 
