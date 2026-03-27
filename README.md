@@ -14,7 +14,7 @@ Samuel Valbuena y Samuel Rojas
 </p>
 
 <p align="center">
-![Logo](images/students-data.jpg) width="150">
+![Logo](images/students-data.jpg) 
 </p>
 
 ---
