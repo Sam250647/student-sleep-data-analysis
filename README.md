@@ -38,12 +38,19 @@ Explorar cómo los estudiantes distribuyen su tiempo entre actividades digitales
 
 📊 Objetivos específicos
 -Recolectar y organizar datos sobre el tiempo que los estudiantes dedican al estudio, redes sociales y consumo digital.
+
 -Analizar el tiempo promedio de uso tecnológico según grupos de edad (jóvenes, adultos y otros grupos definidos en el estudio).
+
 -Identificar patrones de comportamiento digital, como exceso de uso de redes sociales o equilibrio entre estudio y ocio.
+
 -Comparar hábitos digitales entre diferentes perfiles de estudiantes.
+
 -Visualizar los datos mediante gráficos y dashboards usando herramientas como Excel, Power BI y Power Pivot.
+
 -Detectar posibles riesgos asociados al uso excesivo de tecnología, como distracción académica o dependencia digital.
+
 -Interpretar los resultados obtenidos para generar conclusiones basadas en datos reales.
+
 -Demostrar el uso de herramientas básicas de ciencia de datos aplicadas a un problema cotidiano.
 
 
