@@ -1,7 +1,7 @@
 <h1 align="center">📊 Análisis de Hábitos Digitales en Estudiantes Universitarios</h1>
 
 <p align="center">
-Samuel Valbuena y Samuel Rojas
+Samuel Valbuena - y Samuel Rojas -202610499
 </p>
 
 <p align="center">
@@ -84,13 +84,39 @@ Explorar cómo los estudiantes distribuyen su tiempo entre actividades digitales
 
 ## Metodología
 
-El proyecto se basa en el trabajo basico en ciencia de datos:
+1. Recolección de datos
 
-1. Recolección de datos  
-2. Limpieza y organización  
-3. Análisis exploratorio de datos  
-4. Visualización de patrones  
-5. Interpretación de resultados  
+Se obtuvieron datos mediante encuestas simples dirigidas a estudiantes, donde se registró información sobre el tiempo dedicado al estudio, redes sociales y consumo de contenido digital.
+
+2. Selección de variables
+
+Se definieron las variables principales del análisis, tales como:
+
+-Edad
+
+Tiempo de uso diario de tecnología
+
+-Tiempo de estudio
+
+-Uso de redes sociales
+
+-Tipo de actividad digital
+
+3. Limpieza y organización de datos
+
+Los datos fueron revisados para eliminar errores, valores vacíos o inconsistentes. Posteriormente se organizaron en tablas estructuradas utilizando Excel.
+
+4. Transformación de datos
+
+Se realizaron cálculos básicos como promedios, porcentajes y agrupaciones por categorías para facilitar el análisis.
+
+5. Análisis exploratorio de datos (EDA)
+
+Se analizaron tendencias generales mediante estadísticas descriptivas para identificar comportamientos frecuentes y posibles patrones.
+
+6. Visualización de patrones
+
+Se crearon gráficos y dashboards usando herramientas como Excel, Power BI y Power Pivot para representar visualmente la información.
 
 ---
 
