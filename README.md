@@ -34,7 +34,19 @@ El objetivo del proyecto es mostrar cómo un conjunto de datos sencillo puede an
 
 ## Objetivo
 
-Explorar cómo los estudiantes distribuyen su tiempo entre actividades digitales y académicas, identificando posibles patrones en sus hábitos tecnológicos.
+Explorar cómo los estudiantes distribuyen su tiempo entre actividades digitales y académicas, identificando posibles patrones en sus hábitos tecnológicos mediante el análisis de datos.
+
+📊 Objetivos específicos
+-Recolectar y organizar datos sobre el tiempo que los estudiantes dedican al estudio, redes sociales y consumo digital.
+-Analizar el tiempo promedio de uso tecnológico según grupos de edad (jóvenes, adultos y otros grupos definidos en el estudio).
+-Identificar patrones de comportamiento digital, como exceso de uso de redes sociales o equilibrio entre estudio y ocio.
+-Comparar hábitos digitales entre diferentes perfiles de estudiantes.
+-Visualizar los datos mediante gráficos y dashboards usando herramientas como Excel, Power BI y Power Pivot.
+-Detectar posibles riesgos asociados al uso excesivo de tecnología, como distracción académica o dependencia digital.
+-Interpretar los resultados obtenidos para generar conclusiones basadas en datos reales.
+-Demostrar el uso de herramientas básicas de ciencia de datos aplicadas a un problema cotidiano.
+
+
 <p align="center">
 <img src="https://github.com/Sam250647/student-sleep-data-analysis/blob/main/images/estadistica.jpg" width="450">
 </p>
