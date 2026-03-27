@@ -35,7 +35,9 @@ El objetivo del proyecto es mostrar cómo un conjunto de datos sencillo puede an
 ## Objetivo
 
 Explorar cómo los estudiantes distribuyen su tiempo entre actividades digitales y académicas, identificando posibles patrones en sus hábitos tecnológicos.
-
+<p align="center">
+![Logo](Objetivos.jpg) 
+</p>
 ---
 
 ## Preguntas de investigación
